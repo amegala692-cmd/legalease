@@ -8,7 +8,7 @@ import streamlit as st
 
 st.set_page_config(page_title="LegalEase", page_icon="⚖️", layout="wide", initial_sidebar_state="expanded")
 
-DEFAULT_API = "https://legalease-8q7w.onrender.com"
+DEFAULT_API = "https://legalease-backend-mx5j.onrender.com"
 
 
 def api_base() -> str:
